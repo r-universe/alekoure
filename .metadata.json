@@ -2,5 +2,9 @@
   {
     "package": "europeanaR",
     "oncran": true
+  },
+  {
+    "package": "Rigma",
+    "oncran": false
   }
 ]
