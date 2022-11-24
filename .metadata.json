@@ -5,6 +5,6 @@
   },
   {
     "package": "Rigma",
-    "oncran": false
+    "oncran": true
   }
 ]
