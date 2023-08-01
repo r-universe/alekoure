@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "europeanaR"]
-	path = europeanaR
-	url = https://github.com/alekoure/europeanar
 [submodule "Rigma"]
 	path = Rigma
 	url = https://github.com/alekoure/rigma
+[submodule "europeanaR"]
+	path = europeanaR
+	url = https://github.com/alekoure/europeanar
