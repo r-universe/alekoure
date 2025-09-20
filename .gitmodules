@@ -5,6 +5,3 @@
 [submodule "Rigma"]
 	path = Rigma
 	url = https://github.com/alekoure/rigma
-[submodule "europeanaR"]
-	path = europeanaR
-	url = https://github.com/alekoure/europeanar
